@@ -1,6 +1,8 @@
 # BSc-Computer-Science
 Lecture notes for BSc Computer Science at the University of Exeter.
 
+This resource is open to use without restriction. You can copy, modify and publish these notes.
+
 ## Progress
 
 ### First Year
